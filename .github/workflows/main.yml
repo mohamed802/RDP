@@ -1,6 +1,5 @@
 RDP
-# rdp by yamzz modifed
-on:
+# rdp by yamzz modifedon:
 workflow_dispatch:
 jobs:
 secure-rdp:
